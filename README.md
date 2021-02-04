@@ -49,6 +49,7 @@ helm repository server
       압축풀린 폴더 내부에 진입 합니다.
       helm 바이너리를 /usr/local/bin으로 옮깁니다.
       ```
+- 비고: helm version은 3을 기준으로 합니다.
 
 ## Helm 기본 명령어 (Helm 3.x 버전 기준)
 1. Repo 조회
